@@ -10,4 +10,3 @@ export default function renderWithRouter(component) {
     history,
   };
 }
-// Peguei o código com um colega de turma
